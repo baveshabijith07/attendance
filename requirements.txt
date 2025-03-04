@@ -1,0 +1,7 @@
+streamlit
+face-recognition
+opencv-python
+numpy
+scikit-learn
+mysql-connector-python
+python-dotenv
